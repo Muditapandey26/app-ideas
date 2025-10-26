@@ -23,9 +23,8 @@ A simple flashcards web app that helps users learn new words in different langua
 
 - [MDN Web Docs: localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 - [MDN Web Docs: CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions)
-- [FreeCodeCamp – Build a Flashcard App](https://www.freecodecamp.org/news/build-a-flashcard-app-using-html-css-and-js/)
+- [FreeCodeCamp: Improve Your JavaScript Skills by Coding a Card Game](https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/)
 
 ## Example Projects
 
-- [Memory Card App (Florin Pop)](https://memory-card.netlify.app/)
-- [Quiz Cards by Web Dev Simplified](https://github.com/WebDevSimplified/Flashcards)
+- [Florin Pop's 10-Projects-10-Hours Repository (Contains Memory Game)](https://github.com/florinpop17/10-projects-10-hours)
