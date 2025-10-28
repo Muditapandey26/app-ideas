@@ -25,7 +25,7 @@ To help students track their study habits and improve focus through timed study 
 - Daily/weekly study goals.
 
 ## Useful Links and Resources
-## Useful Links and Resources
+- Pomodoro Technique Reference: [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique)
 - Pomodoro Technique Reference: [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique)
 - Chart.js for time visualization: [Chart.js](https://www.chartjs.org/)
 
